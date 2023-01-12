@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<style>
+    .title {
+        color: brown;
+    }
+    body {
+        background-color: lightslategrey;
+        font-family: 'Courier New', Courier, monospace;
+        font-style: italic;
+        font-size: smaller;
+        color: black;
+    }
+</style>
+<html lang="en">
+<head>
+    <title class="title">Centinal Media Company</title>
+</head>
+<body>
+    <h1 class="title">Centinal Media Company</h1>
+    <br>
+    <br>
+    <br>
+    <a href="/CentinalMovies">Centinal Film Studio</a>
+    <a href="">Centinal Recording Studio</a>
+
+</body>
+</html>
